@@ -1,0 +1,1 @@
+# AI Radar V2\n\nAstro + React: rankings, filters, tool pages, category SEO pages and comparison page.\n\nRun: `npm install && npm run dev`\nBuild: `npm run build`\nDeploy: import the repository into Vercel.\n
